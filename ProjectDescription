@@ -1,0 +1,15 @@
+Task-1 ATM-Interface
+
+Project Description:
+
+This is a small ATM Inteface project where we can check balance , withdraw amount , deposite cash and 
+the data in data base change in realtime.
+
+Technology used-
+
+IDE- Eclipse
+DataBase- MySQL
+Server - Xampp
+Connector- mysql-connector-j-8.2.0
+Back-End - Java, SQl
+UI- Swing 
