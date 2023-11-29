@@ -1,0 +1,10 @@
+CREATE DATABASE atm;
+USE atm;
+
+CREATE TABLE accounts (
+    card_number VARCHAR(16) PRIMARY KEY,
+    pin VARCHAR(4),
+    balance DECIMAL(10, 2)
+);
+
+INSERT INTO accounts VALUES ('1234567890123456', '1234', 1000.00);
